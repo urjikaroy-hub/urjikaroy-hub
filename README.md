@@ -2,7 +2,7 @@
 # Hi, I'm Urjika 👋
 
 I am a high school student passionate about finding the mathematical intersections between programming, finance, and music theory. I enjoy building analytical tools—whether that is a financial options model or four-part voice leading—into clean, usable code.
-
+Meet my friend PiggieBrown, this KripyBakin's been swinging in the clubs since the 60s and has only just started, inspired by Porco Rosso, Studio Ghibli.
 
 ### 💻 Tech Stack & Tools
 ![C++](https://img.shields.io/badge/C++-C27BA0?style=flat&logo=c%2B%2B&logoColor=white)
