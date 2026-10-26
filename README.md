@@ -1,3 +1,4 @@
+<img src="PiggieBrown01.png" width="150" align="right">
 # Hi, I'm Urjika 👋
 
 I am a high school student passionate about finding the mathematical intersections between programming, finance, and music theory. I enjoy building analytical tools—whether that is a financial options model or four-part voice leading—into clean, usable code.
