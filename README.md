@@ -20,7 +20,7 @@ Meet my friend KrisP; KrisPBakin's been swinging in the clubs since the 60s and 
 ### 🏸 Beyond the Screen
 When I am not debugging data structures or compiling code, you can find me:
 
-* 🎵 Listening, playing, and talking about **Jazz**.
+* 🎵 Listening, playing, and talking about **Jazz** & **Joe Hisaishi**.
 * 🏸 Playing **Badminton**
 * ⚖️ Researching the intersection of computer sc and finance.
 
